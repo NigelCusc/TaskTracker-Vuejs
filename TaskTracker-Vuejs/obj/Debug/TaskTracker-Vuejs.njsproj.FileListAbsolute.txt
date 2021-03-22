@@ -1,0 +1,2 @@
+C:\Users\Owner\source\repos\TaskTracker-Vuejs\TaskTracker-Vuejs\obj\Debug\TaskTracker-Vuejs.njsproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\TaskTracker-Vuejs\TaskTracker-Vuejs\bin\Microsoft.NodejsTools.WebRole.dll
